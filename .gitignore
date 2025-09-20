@@ -1,0 +1,21 @@
+# Большие файлы данных
+*.csv
+*.pkl
+*.joblib
+
+# Временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Окружение
+.env/
+venv/
+env/

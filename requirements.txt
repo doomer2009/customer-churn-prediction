@@ -1,0 +1,21 @@
+# Основные зависимости
+python>=3.8
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+joblib>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Для FastAPI
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+
+# Для ноутбуков
+jupyter>=1.0.0
+notebook>=6.4.0
+ipython>=7.27.0
+
+# Дополнительные
+xgboost>=1.5.0
