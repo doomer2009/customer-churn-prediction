@@ -44,9 +44,7 @@
 ├── data/   
 │ └── telco_churn.csv  
 ├── notebooks/  
-│ ├── 01_eda.ipynb  
-│ ├── 02_modeling.ipynb    
-│ └── 03_results.ipynb  
+│ ├── analysis.ipynb    
 **└── README.md**  
 
 
